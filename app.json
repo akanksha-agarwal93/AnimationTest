@@ -7,6 +7,14 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.akanksha.animationsTest",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.akanksha.animationsTest",
+      "versionCode": 1
+    }
   }
 }
